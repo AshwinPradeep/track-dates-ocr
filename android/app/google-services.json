@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905261463918",
+    "project_id": "fotp-8dbda",
+    "storage_bucket": "fotp-8dbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905261463918:android:2513b57b0506e1b2e8a97f",
+        "android_client_info": {
+          "package_name": "com.otpauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905261463918-d9aq7ic3upqmsv9c9dplm7thqre4l2kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_dfDpasoG7Hw0IA9SXbS5iTH4iTfoaiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905261463918-d9aq7ic3upqmsv9c9dplm7thqre4l2kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
